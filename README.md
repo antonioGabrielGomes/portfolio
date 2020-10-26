@@ -16,6 +16,8 @@ Publica em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf) (
 
 2020 Curso Básico de grapql - [Github](https://github.com/antonioGabrielGomes/GraphQL-curso)
 
+2020 [Curso Básico de IPv6 - A distância](./certificados/curso_basico_ipv6.pdf)
+
 2017 [Curso de Algoritmo - CEV](./certificados/curso_de_algoritmo.jpg)
 
 ## Semanas de Tecnologia
