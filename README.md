@@ -5,14 +5,14 @@
 ## Experiências 
 #
 2020 Trabalho de Conclusão da Graduação: Desenvolvimento de ferramenta para gestão de ideias no modelo de inovação MGPDI 
-Publica em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf) (Vanessa Lopes Abreu; Anderson Jorge Serra Da Costa; Antonio Gabriel Gomes; Camilla Lobato Pantoja)
+Publicado em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf) (Vanessa Lopes Abreu; Anderson Jorge Serra Da Costa; Antonio Gabriel Gomes; Camilla Lobato Pantoja)
 
-2019 Desenvolvimento de script para automatizar processo de enumeração de coordenadas [Github](https://github.com/antonioGabrielGomes/tool-log-web-version) - Atualmente encontra se online em [link](https://tool-log-web-version.herokuapp.com/) - obs.: sem manutenção ouu melhorias recentes.
+2019 Desenvolvimento de script para automatizar processo de enumeração de coordenadas [Github](https://github.com/antonioGabrielGomes/tool-log-web-version) - Atualmente encontra se online em [link](https://tool-log-web-version.herokuapp.com/) - obs.: sem manutenção ou melhorias recentes.
 
 ## Cursos
 #
 
-2020 [Python Data Strutures]()
+2020 [Python Data Strutures](em andamento)
 
 2020 Curso Básico de grapql - [Github](https://github.com/antonioGabrielGomes/GraphQL-curso)
 
@@ -23,7 +23,7 @@ Publica em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf) (
 ## Semanas de Tecnologia
 #
 
-2020 [Semana JS Expert]()
+2020 [Semana JS Expert](em andamento)
 
 2020 [5º Temporada da Semana FTTH Meeting](./certificados/5_temporada_ftth_meeting.pdf)  -  ([pdf](https://vp2uploads.s3.amazonaws.com/16264/certificado/8245a7e5b1e9e5fff56d9fbbeca4251e4996dcef.pdf))
 
