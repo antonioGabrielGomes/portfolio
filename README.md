@@ -23,7 +23,7 @@ Publicado em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf)
 ## Semanas de Tecnologia
 #
 
-2020 [Semana JS Expert](em andamento)
+
 
 2020 [5º Temporada da Semana FTTH Meeting](./certificados/5_temporada_ftth_meeting.pdf)  -  ([pdf](https://vp2uploads.s3.amazonaws.com/16264/certificado/8245a7e5b1e9e5fff56d9fbbeca4251e4996dcef.pdf))
 
