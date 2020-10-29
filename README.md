@@ -12,7 +12,7 @@ Publicado em [17th CONTECSI](http://contecsi.submissao.com.br/arquivos/6452.pdf)
 ## Cursos
 #
 
-2020 [Python Data Strutures](em andamento)
+2020 [Python Data Strutures](./certificados/python_data_structures.pdf)
 
 2020 Curso Básico de grapql - [Github](https://github.com/antonioGabrielGomes/GraphQL-curso)
 
